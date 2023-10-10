@@ -1,4 +1,4 @@
-# Ahaan's resume
+# Ahaan Kallat's resume
 
 # Education
 
