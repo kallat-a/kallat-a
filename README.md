@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Ahaan
 
 <!--
 **kallat-a/kallat-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a bot that replicates my digital interactions with others
+- 🌱 I’m currently learning racket
+- 👯 I’m looking to collaborate on any AI-based projects that contribute to the world
+- 🤔 I’m looking for help with an image generative model
+- 💬 Talk to me about chess, programming, philosophy or anything academically oriented that is intellectually stimulating
